@@ -6,7 +6,7 @@ Henrik is a trained electronics engineer specializing in software development fo
 
 Henrik's main area of expertise is design and implementation of low level software resulting in a high quality and maintainable code base when it comes to attributes such as; code readability, modularity, low coupling, testability, resource usage, robustness, and right level of clear documentation.
 
-Henrik is a structured and self-dependent person who will take action and lead when needed. Henrik understands the importance of working agile and fine-tune the course throughout a project so that the priorities are right in the team.
+Henrik is a structured and self-dependent person who will take action and lead when needed to ensure an agile and fine-tuned course throughout a project to have correct priorities in the team.
 
 Henrik is unpretentious, positive, easy to collaborate with, and will focus on listening to understand the other party before presenting his own opinion.
 
