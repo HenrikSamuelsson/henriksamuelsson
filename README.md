@@ -3,9 +3,8 @@
 ## Knowledge Levels by Area
 
 |             | Configuration Management | Construction |
-| Level       |-------------------------|---------------|
+| ------------|-------------------------|---------------|
 |Introductory |                         |               |
-
 
 ## Profile
 
