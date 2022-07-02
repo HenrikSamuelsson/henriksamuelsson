@@ -3,7 +3,7 @@
 ## Knowledge Areas by Level
 
 |              | Configuration <br /> Management | Construction | Design | Foundations | Maintenance |
-| ------------ |-------------------------        |--------------|
+| ------------ |-------------------------        |--------------|---     | ----        | ----        |
 | Novice       |                                 |              |
 
 ## Profile
