@@ -1,10 +1,10 @@
 # Henrik Samuelsson | CV
 
-## Knowledge Levels by Area
+## Knowledge Areas by Level
 
-|              | Configuration <br /> Management | Construction |
-| ------------ |-------------------------      |--------------|
-| Novice       |                               |              |
+|              | Configuration <br /> Management | Construction | Design | Foundations | Maintenance |
+| ------------ |-------------------------        |--------------|
+| Novice       |                                 |              |
 
 ## Profile
 
