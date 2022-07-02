@@ -1,5 +1,12 @@
 # Henrik Samuelsson | CV
 
+## Knowledge Levels by Area
+
+|             | Configuration Management | Construction |
+| Level       |-------------------------|---------------|
+|Introductory |                         |               |
+
+
 ## Profile
 
 Henrik is a trained electronics engineer specializing in software development for embedded systems, having for the past ten years worked professionally for various companies in this field.
