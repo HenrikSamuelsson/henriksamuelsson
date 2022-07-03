@@ -1,10 +1,12 @@
 # Henrik Samuelsson | CV
 
-## Knowledge Areas by Level
+## Software Engineering Knowledge Areas by Capability Level
 
-|              | Configuration <br /> Management | Construction | Design | Foundations | Maintenance |
-| ------------ |-------------------------        |--------------|---     | ----        | ----        |
-| Novice       |                                 |              |
+|              | CNFG | CNST | DSGN | FNDN | MNTC | MTHD | PRCS | MGMT | QUAL | RQMT | TEST |
+| ---          | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  |
+| Introductory |      |      |      |      |      |      |      |      |      |      |      |      
+| Competence   |      |      |      |      |      |      |      |      |      |      |      |      
+| Leadership   |      |      |      |      |      |      |      |      |      |      |      |      
 
 ## Profile
 
