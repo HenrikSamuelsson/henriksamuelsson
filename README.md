@@ -2,11 +2,32 @@
 
 ## Software Engineering Knowledge Areas by Capability Level
 
-|              | CNFG | CNST | DSGN | FNDN | MNTC | MTHD | PRCS | MGMT | QUAL | RQMT | TEST |
-| ---          | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  |
-| Introductory |      |      |      |      |      |      |      |      |      |      |      |      
-| Competence   |      |      |      |      |      |      |      |      |      |      |      |      
-| Leadership   |      |      |      |      |      |      |      |      |      |      |      |      
+Knowledge are according to the definition in the SWEBOK Guide V3.0. Levels are based on my own selfassesment.
+
+List of knowledge areas:
+
+- Software Requirements (REQ)  
+- Software Design (DSG)
+- Software Construction (CST)
+- Software Testing (TST)
+- Software Maintenance (MNT)
+- Software Configuration Management (CFG)
+- Software Engineering Management (MGM)
+- Software Engineering Process (PRC)
+- Software Engineering Models and Methods (MTD)
+- Software Quality (QAL)
+- Software Engineering Professional Practice (PRA)
+- Software Engineering Economics (ECO)
+- Computing Foundations (CPF)
+- Mathematical Foundations (MTF)
+- Engineering Foundations (ENG)
+
+
+|              | REQ | DSG | CST | TST | MNT | CFG | MGM | PRC | MTD | QAL | PRA | ECO | CPT | MTH | ENG |
+| ---          | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Introductory |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Competence   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Leadership   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 ## Profile
 
