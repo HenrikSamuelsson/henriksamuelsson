@@ -23,7 +23,7 @@ List of knowledge areas:
 - Engineering Foundations (ENG)
 
 
-|     | REQ | DSG | CST | TST | MNT | CFG | MGM | PRC | MTD | QAL | PRA | ECO | CPT | MTH | ENG |
+|     | R</BR>EQ| DSG | CST | TST | MNT | CFG | MGM | PRC | MTD | QAL | PRA | ECO | CPT | MTH | ENG |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | II  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
