@@ -6,12 +6,12 @@ Knowledge are according to the definition in the SWEBOK Guide V3.0. Levels are b
 
 List of knowledge areas:
 
-- Software Requirements (REQ)  
-- Software Design (DSG)
-- Software Construction (CST)
-- Software Testing (TST)
+- Software Requirements (RQMT)  
+- Software Design (DSGN)
+- Software Construction (CNST)
+- Software Testing (TEST)
 - Software Maintenance (MNT)
-- Software Configuration Management (CFG)
+- Software Configuration Management (CNFG)
 - Software Engineering Management (MGM)
 - Software Engineering Process (PRC)
 - Software Engineering Models and Methods (MTD)
@@ -23,7 +23,7 @@ List of knowledge areas:
 - Engineering Foundations (ENG)
 
 
-|            | R</BR>E</BR>Q | D</BR>S</BR>G | C</BR>S</BR>T | T</BR>S</BR>T | M</BR>N</BR>T | C</BR>F</BR>G | M</BR>G</BR>M | P</BR>R</BR>C | M</BR>T</BR>D | Q</BR>A</BR>L | P</BR>R</BR>A | E</BR>C</BR>O | C</BR>P</BR>T | M</BR>T</BR>H | E</BR>N</BR>G |
+|            | R </BR> Q</BR>M</BR>T | D</BR>S</BR>G</BR>N | C</BR>N</BR>S</BR>T | T</BR>E</BR>S</BR>T | M</BR>N</BR>T | C</BR>N</BR>F</BR>G | M</BR>G</BR>M | P</BR>R</BR>C | M</BR>T</BR>D | Q</BR>A</BR>L | P</BR>R</BR>A | E</BR>C</BR>O | C</BR>P</BR>T | M</BR>T</BR>H | E</BR>N</BR>G |
 | ---        | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           |
 | Novice     | ◯            | ◯            |               |               |               |               |               |               |               |               |               |               |               |               |               |
 | Beginner   |               |               |               |               |               |               |               |               |               |               |               |               |               |               |               |
