@@ -19,11 +19,11 @@ List of knowledge areas:
 - Software Engineering Professional Practice (PRAC)
 - Software Engineering Economics (ECNM)
 - Computing Foundations (CPTG)
-- Mathematical Foundations (MATH)
-- Engineering Foundations (ENG)
+- Mathematical Foundations (MTHF)
+- Engineering Foundations (ENGF)
 
 
-|            | R </BR> Q</BR>M</BR>T | D</BR>S</BR>G</BR>N | C</BR>N</BR>S</BR>T | T</BR>E</BR>S</BR>T | M</BR>N</BR>T</BR>C| C</BR>N</BR>F</BR>G | M</BR>G</BR>M</BR>T| P</BR>R</BR>C</BR>S | M</BR>T</BR>H</BR>D | Q</BR>U</BR>A</BR>L | P</BR>R</BR>A</BR>C | E</BR>C</BR>N</BR>M | C</BR>P</BR>T</BR>G | M</BR>A</BR>T</BR>H | E</BR>N</BR>G</BR>I |
+|            | R </BR> Q</BR>M</BR>T | D</BR>S</BR>G</BR>N | C</BR>N</BR>S</BR>T | T</BR>E</BR>S</BR>T | M</BR>N</BR>T</BR>C| C</BR>N</BR>F</BR>G | M</BR>G</BR>M</BR>T| P</BR>R</BR>C</BR>S | M</BR>T</BR>H</BR>D | Q</BR>U</BR>A</BR>L | P</BR>R</BR>A</BR>C | E</BR>C</BR>N</BR>M | C</BR>P</BR>T</BR>G | M</BR>T</BR>H</BR>F | E</BR>N</BR>G</BR>F |
 | ---        | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           | ---           |
 | Novice     | ◯            | ◯            |               |               |               |               |               |               |               |               |               |               |               |               |               |
 | Beginner   |               |               |               |               |               |               |               |               |               |               |               |               |               |               |               |
