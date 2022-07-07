@@ -1,6 +1,6 @@
 # Henrik Samuelsson | CV
 
-## Software Engineering Knowledge Areas by Capability Level
+## Software Engineering Knowledge Areas
 
 Knowledge are according to the definition in the SWEBOK Guide V3.0. Levels are based on my own selfassesment.
 
