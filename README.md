@@ -4,11 +4,19 @@
 
 Knowledge are according to the definition in the SWEBOK Guide V3.0. based on self assessment.
 
-List of knowledge areas:
+|            |R</BR>Q</BR>M</BR>T|D</BR>S</BR>G</BR>N|C</BR>N</BR>S</BR>T|T</BR>E</BR>S</BR>T|M</BR>N</BR>T</BR>C|C</BR>N</BR>F</BR>G|M</BR>G</BR>M</BR>T|P</BR>R</BR>C</BR>S|M</BR>T</BR>H</BR>D|Q</BR>U</BR>A</BR>L|P</BR>R</BR>A</BR>C|E</BR>C</BR>N</BR>M|C</BR>P</BR>T</BR>G|M</BR>T</BR>H</BR>F|E</BR>N</BR>G</BR>F |
+| ---        | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---                |
+| Novice     | ◯                | ◯                | ◯                | ◯                | ◯                | ◯                |◯                 |◯                 | ◯                | ◯                | ◯                |  ◯                | ◯                | ◯                | ◯                 |
+| Beginner   | ◯                | ◯                | ◯                | ◯                | ◯                | ◯                |◯                 |◯                 | ◯                | ◯                | ◯                |  ◯                | ◯                | ◯                | ◯                 |
+| Competent  | ◯                | ◯                | ◯                | ◯                | ◯                |                   |◯                 |◯                 | ◯                | ◯                | ◯                |                    | ◯                | ◯                | ◯                 |
+| Proficient | ◯                |                   |                   |                   | ◯                |                   |                   |                   | ◯                | ◯                | ◯                |                    |                   |                  |                    |  
+| Expert     |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |
 
-- Software Requirements (RQMT)  
-- Software Design (DSGN)
-- Software Construction (CNST)
+| Knowledge Area        | Rating       |
+| ---                   | ---          |
+| Software Requirements | ◉ ◉ ◉ ◉ 𐤏 |
+| Software Design       | ◉ ◉ ◉ 𐤏 𐤏 |
+Software Construction (CNST)
 - Software Testing (TEST)
 - Software Maintenance (MNTC)
 - Software Configuration Management (CNFG)
@@ -23,18 +31,6 @@ List of knowledge areas:
 - Engineering Foundations (ENGF)
 
 
-|            |R</BR>Q</BR>M</BR>T|D</BR>S</BR>G</BR>N|C</BR>N</BR>S</BR>T|T</BR>E</BR>S</BR>T|M</BR>N</BR>T</BR>C|C</BR>N</BR>F</BR>G|M</BR>G</BR>M</BR>T|P</BR>R</BR>C</BR>S|M</BR>T</BR>H</BR>D|Q</BR>U</BR>A</BR>L|P</BR>R</BR>A</BR>C|E</BR>C</BR>N</BR>M|C</BR>P</BR>T</BR>G|M</BR>T</BR>H</BR>F|E</BR>N</BR>G</BR>F |
-| ---        | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---                |
-| Novice     | ◯                | ◯                | ◯                | ◯                | ◯                | ◯                |◯                 |◯                 | ◯                | ◯                | ◯                |  ◯                | ◯                | ◯                | ◯                 |
-| Beginner   | ◯                | ◯                | ◯                | ◯                | ◯                | ◯                |◯                 |◯                 | ◯                | ◯                | ◯                |  ◯                | ◯                | ◯                | ◯                 |
-| Competent  | ◯                | ◯                | ◯                | ◯                | ◯                |                   |◯                 |◯                 | ◯                | ◯                | ◯                |                    | ◯                | ◯                | ◯                 |
-| Proficient | ◯                |                   |                   |                   | ◯                |                   |                   |                   | ◯                | ◯                | ◯                |                    |                   |                  |                    |  
-| Expert     |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |
-
-| Knowledge Area        | Rating       |
-| ---                   | ---          |
-| Software Requirements | ◉ ◉ ◉ ◉ 𐤏 |
-| Software Design       | ◉ ◉ ◉ 𐤏 𐤏 |
 
 ## Profile
 
