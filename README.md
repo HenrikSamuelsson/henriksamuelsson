@@ -14,10 +14,10 @@ Knowledge are according to the definition in the SWEBOK Guide V3.0. based on sel
 
 | Knowledge Area        | Rating       |
 | ---                   | ---          |
-| Software Requirements | ◉ ◉ ◉ ◉ 𐤏 |
+| Software Requirements | ◉ ◉ ◉ ◉ ◯|
 | Software Design       | ◉ ◉ ◉ 𐤏 𐤏 |
-Software Construction (CNST)
-- Software Testing (TEST)
+Software Construction (CNST) ● ⬤ ⬤ ◯ ◯ ◙ ⦿
+| Software Testing      | ★ ★ ★ ☆ ☆  |
 - Software Maintenance (MNTC)
 - Software Configuration Management (CNFG)
 - Software Engineering Management (MGMT)
