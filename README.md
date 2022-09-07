@@ -12,25 +12,23 @@ Knowledge are according to the definition in the SWEBOK Guide V3.0. based on sel
 | Proficient | ◯                |                   |                   |                   | ◯                |                   |                   |                   | ◯                | ◯                | ◯                |                    |                   |                  |                    |  
 | Expert     |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |
 
-| Knowledge Area        | Rating       |
-| ---                   | ---          |
-| Software Requirements | ◉ ◉ ◉ ◉ ◯|
-| Software Design       | ◉ ◉ ◉ 𐤏 𐤏 |
-Software Construction (CNST) ● ⬤ ⬤ ◯ ◯ ◙ ⦿
-| Software Testing      | ★ ★ ★ ☆ ☆  |
-- Software Maintenance (MNTC)
-- Software Configuration Management (CNFG)
-- Software Engineering Management (MGMT)
-- Software Engineering Process (PRCS)
-- Software Engineering Models and Methods (MTHD)
-- Software Quality (QUAL)
-- Software Engineering Professional Practice (PRAC)
-- Software Engineering Economics (ECNM)
-- Computing Foundations (CPTG)
-- Mathematical Foundations (MTHF)
-- Engineering Foundations (ENGF)
-
-
+| Knowledge Area                | Rating       |
+| ---                           | ---          |
+| Software Requirements         | ★ ★ ★ ★ ☆ |
+| Software Design               | ★ ★ ★ ☆ ☆ |
+Software Construction           | ★ ★ ★ ☆ ☆ |
+| Software Testing              | ★ ★ ★ ☆ ☆ |
+ Software Maintenance (MNTC)    |
+ Software Configuration Management (CNFG) |
+ Software Engineering Management (MGMT) |
+ Software Engineering Process (PRCS) |
+ Software Engineering Models and Methods (MTHD) |
+ Software Quality (QUAL) |
+ Software Engineering Professional Practice (PRAC) |
+ Software Engineering Economics (ECNM) |
+ Computing Foundations (CPTG) |
+ Mathematical Foundations (MTHF) |
+ Engineering Foundations (ENGF) |
 
 ## Profile
 
