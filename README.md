@@ -4,31 +4,23 @@
 
 Knowledge are according to the definition in the SWEBOK Guide V3.0. based on self assessment.
 
-|            |R</BR>Q</BR>M</BR>T|D</BR>S</BR>G</BR>N|C</BR>N</BR>S</BR>T|T</BR>E</BR>S</BR>T|M</BR>N</BR>T</BR>C|C</BR>N</BR>F</BR>G|M</BR>G</BR>M</BR>T|P</BR>R</BR>C</BR>S|M</BR>T</BR>H</BR>D|Q</BR>U</BR>A</BR>L|P</BR>R</BR>A</BR>C|E</BR>C</BR>N</BR>M|C</BR>P</BR>T</BR>G|M</BR>T</BR>H</BR>F|E</BR>N</BR>G</BR>F |
-| ---        | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---               | ---                |
-| Novice     | ◯                | ◯                | ◯                | ◯                | ◯                | ◯                |◯                 |◯                 | ◯                | ◯                | ◯                |  ◯                | ◯                | ◯                | ◯                 |
-| Beginner   | ◯                | ◯                | ◯                | ◯                | ◯                | ◯                |◯                 |◯                 | ◯                | ◯                | ◯                |  ◯                | ◯                | ◯                | ◯                 |
-| Competent  | ◯                | ◯                | ◯                | ◯                | ◯                |                   |◯                 |◯                 | ◯                | ◯                | ◯                |                    | ◯                | ◯                | ◯                 |
-| Proficient | ◯                |                   |                   |                   | ◯                |                   |                   |                   | ◯                | ◯                | ◯                |                    |                   |                  |                    |  
-| Expert     |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |                   |
-
 | Knowledge Area                | Rating       |
 | ---                           | ---          |
 | Software Requirements         | ★ ★ ★ ★ ☆ |
 | Software Design               | ★ ★ ★ ☆ ☆ |
 Software Construction           | ★ ★ ★ ☆ ☆ |
 | Software Testing              | ★ ★ ★ ☆ ☆ |
- Software Maintenance (MNTC)    |
- Software Configuration Management (CNFG) |
- Software Engineering Management (MGMT) |
- Software Engineering Process (PRCS) |
- Software Engineering Models and Methods (MTHD) |
- Software Quality (QUAL) |
- Software Engineering Professional Practice (PRAC) |
- Software Engineering Economics (ECNM) |
- Computing Foundations (CPTG) |
- Mathematical Foundations (MTHF) |
- Engineering Foundations (ENGF) |
+ Software Maintenance           | ★ ★ ★ ★ ☆
+ Software Configuration Management  | ★ ★ ☆ ☆ ☆
+ Software Engineering Management (MGMT) | ★ ★ ☆ ☆ ☆
+ Software Engineering Process (PRCS) | ★ ★ ★ ☆ ☆
+ Software Engineering Models and Methods (MTHD) | ★ ★ ☆ ☆ ☆
+ Software Quality (QUAL) | ★ ★ ★ ★ ☆
+ Software Engineering Professional Practice (PRAC) | ★ ★ ★ ☆ ☆
+ Software Engineering Economics (ECNM) | ★ ★ ☆ ☆ ☆
+ Computing Foundations (CPTG) | ★ ★ ★ ☆ ☆
+ Mathematical Foundations (MTHF) | ★ ★ ★ ☆ ☆
+ Engineering Foundations (ENGF) | ★ ★ ★ ☆ ☆
 
 ## Profile
 
