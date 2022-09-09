@@ -2,7 +2,7 @@
 
 ## Software Engineering Knowledge Areas
 
-Knowledge are according to the definition in the SWEBOK Guide V3.0. based on self assessment.
+Knowledge area ratings based on self assessment, where areas are according to the definition in the SWEBOK Guide V 3.0.
 
 | Knowledge Area                | Rating       |
 | ---                           | ---          |
@@ -10,17 +10,17 @@ Knowledge are according to the definition in the SWEBOK Guide V3.0. based on sel
 | Software Design               | ★ ★ ★ ☆ ☆ |
 Software Construction           | ★ ★ ★ ☆ ☆ |
 | Software Testing              | ★ ★ ★ ☆ ☆ |
- Software Maintenance           | ★ ★ ★ ★ ☆
- Software Configuration Management  | ★ ★ ☆ ☆ ☆
- Software Engineering Management (MGMT) | ★ ★ ☆ ☆ ☆
- Software Engineering Process (PRCS) | ★ ★ ★ ☆ ☆
- Software Engineering Models and Methods (MTHD) | ★ ★ ☆ ☆ ☆
- Software Quality (QUAL) | ★ ★ ★ ★ ☆
- Software Engineering Professional Practice (PRAC) | ★ ★ ★ ☆ ☆
- Software Engineering Economics (ECNM) | ★ ★ ☆ ☆ ☆
- Computing Foundations (CPTG) | ★ ★ ★ ☆ ☆
- Mathematical Foundations (MTHF) | ★ ★ ★ ☆ ☆
- Engineering Foundations (ENGF) | ★ ★ ★ ☆ ☆
+Software Maintenance           | ★ ★ ★ ★ ☆
+Software Configuration Management  | ★ ★ ☆ ☆ ☆
+Software Engineering Management | ★ ★ ☆ ☆ ☆
+Software Engineering Process | ★ ★ ★ ☆ ☆
+Software Engineering Models and Methods | ★ ★ ☆ ☆ ☆
+Software Quality | ★ ★ ★ ★ ☆
+Software Engineering Professional Practice | ★ ★ ★ ☆ ☆
+Software Engineering Economics | ★ ★ ☆ ☆ ☆
+Computing Foundations | ★ ★ ★ ☆ ☆
+Mathematical Foundations | ★ ★ ★ ☆ ☆
+Engineering Foundations | ★ ★ ★ ☆ ☆
 
 ## Profile
 
