@@ -2,25 +2,26 @@
 
 ## Software Engineering Knowledge Areas
 
-Knowledge area ratings based on self assessment, where areas are according to the definition in the SWEBOK Guide V 3.0.
+Knowledge area ratings based on self assessment, where areas are according to the definition in the SWEBOK Guide V 3.0.  
+(SW = software)
 
-| Knowledge Area                             | Rating    |
-| ---                                        | ---       |
-| Software Requirements                      | ★ ★ ★ ★ ☆ |
-| Software Design                            | ★ ★ ★ ☆ ☆ |
-| Software Construction                      | ★ ★ ★ ☆ ☆ |
-| Software Testing                           | ★ ★ ★ ☆ ☆ |
-| Software Maintenance                       | ★ ★ ★ ★ ☆ |
-| Software Configuration Management          | ★ ★ ☆ ☆ ☆ |
-| Software Engineering Management            | ★ ★ ☆ ☆ ☆ |
-| Software Engineering Process               | ★ ★ ★ ☆ ☆ |
-| Software Engineering Models and Methods    | ★ ★ ☆ ☆ ☆ |
-| Software Quality                           | ★ ★ ★ ★ ☆ |
-| Software Engineering Professional Practice | ★ ★ ★ ☆ ☆ |
-| Software Engineering Economics             | ★ ★ ☆ ☆ ☆ |
-| Computing Foundations                      | ★ ★ ★ ☆ ☆ |
-| Mathematical Foundations                   | ★ ★ ★ ☆ ☆ |
-| Engineering Foundations                    | ★ ★ ★ ☆ ☆ |
+| Knowledge Area                       | Rating    |
+| ---                                  | ---       |
+| SW Requirements                      | ★ ★ ★ ★ ☆ |
+| SW Design                            | ★ ★ ★ ☆ ☆ |
+| SW Construction                      | ★ ★ ★ ☆ ☆ |
+| SW Testing                           | ★ ★ ★ ☆ ☆ |
+| SW Maintenance                       | ★ ★ ★ ★ ☆ |
+| SW Configuration Management          | ★ ★ ☆ ☆ ☆ |
+| SW Engineering Management            | ★ ★ ☆ ☆ ☆ |
+| SW Engineering Process               | ★ ★ ★ ☆ ☆ |
+| SW Engineering Models and Methods    | ★ ★ ☆ ☆ ☆ |
+| SW Quality                           | ★ ★ ★ ★ ☆ |
+| SW Engineering Professional Practice | ★ ★ ★ ☆ ☆ |
+| SW Engineering Economics             | ★ ★ ☆ ☆ ☆ |
+| Computing Foundations                | ★ ★ ★ ☆ ☆ |
+| Mathematical Foundations             | ★ ★ ★ ☆ ☆ |
+| Engineering Foundations              | ★ ★ ★ ☆ ☆ |
 
 ## Profile
 
