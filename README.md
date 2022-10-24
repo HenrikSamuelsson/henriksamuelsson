@@ -2,11 +2,11 @@
 
 ## Software Engineering Knowledge Areas
 
-Knowledge area ratings based on self assessment, where areas are according to the definition in the SWEBOK Guide V 3.0.  
+Knowledge areas are according to the definition in the SWEBOK Guide V 3.0.  
 (SW = software)
 
-| Knowledge Area                       | Rating    |
-| ---                                  | ---       |
+| Knowledge Area                       | Self Assesed Rating |
+| ---                                  | ---                 |
 | SW Requirements                      | ★ ★ ★ ★ ☆ |
 | SW Design                            | ★ ★ ★ ☆ ☆ |
 | SW Construction                      | ★ ★ ★ ☆ ☆ |
