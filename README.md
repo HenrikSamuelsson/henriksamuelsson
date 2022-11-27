@@ -6,7 +6,7 @@ Henrik have experience in a wide array of software engineering areas. This exper
 
 <details><summary>Table of Knowledge Areas</summary>
   
-Knowledge areas are according to the definition in the SWEBOK Guide V 3.0. 
+Knowledge areas are according to the definition in the SWEBOK Guide V 3.0.  
 (SW = software)
 
 | Knowledge Area                       | Self Assesed Rating |
