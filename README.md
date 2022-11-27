@@ -2,9 +2,11 @@
 
 ## Software Engineering Knowledge Areas
 
-Knowledge areas are according to the definition in the SWEBOK Guide V 3.0. 
+Henrik have experience in a wide array of software engineering areas. This experience have been gained by a combination of training and real-life projects. 
 
-<details>
+<details><summary>Table of Knowledge Areas</summary>
+  
+Knowledge areas are according to the definition in the SWEBOK Guide V 3.0. 
 (SW = software)
 
 | Knowledge Area                       | Self Assesed Rating |
