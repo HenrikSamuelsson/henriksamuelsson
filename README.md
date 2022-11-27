@@ -2,7 +2,9 @@
 
 ## Software Engineering Knowledge Areas
 
-Knowledge areas are according to the definition in the SWEBOK Guide V 3.0.  
+Knowledge areas are according to the definition in the SWEBOK Guide V 3.0. 
+
+<details>
 (SW = software)
 
 | Knowledge Area                       | Self Assesed Rating |
@@ -22,6 +24,7 @@ Knowledge areas are according to the definition in the SWEBOK Guide V 3.0.
 | Computing Foundations                | ★ ★ ★ ☆ ☆ |
 | Mathematical Foundations             | ★ ★ ★ ☆ ☆ |
 | Engineering Foundations              | ★ ★ ★ ☆ ☆ |
+</details>
 
 ## Profile
 
