@@ -2,7 +2,7 @@
 
 ## Profile
 
-Henrik is a trained electronics engineer specializing in software development for embedded systems, having for the past ten years worked professionally for various companies in this field.
+Henrik is a trained electronics engineer specializing in software development for embedded systems, having for the past twelve years worked professionally for various companies in this field.
 
 <details><summary>Skills and Personal Traits</summary>
 
